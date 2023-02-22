@@ -26,10 +26,12 @@ module com.example.ushtrimeprovim2023 {
     opens com.example.ushtrimeprovim2023.DetyratNeVideo.video5 to javafx.fxml;
     exports com.example.ushtrimeprovim2023.DetyratNeVideo.video6;
     opens com.example.ushtrimeprovim2023.DetyratNeVideo.video6 to javafx.fxml;
-    exports com.example.ushtrimeprovim2023.DetyratNeVideo.video6.stage;
-    opens com.example.ushtrimeprovim2023.DetyratNeVideo.video6.stage to javafx.fxml;
-    exports com.example.ushtrimeprovim2023.DetyratNeVideo.video6.util;
-    opens com.example.ushtrimeprovim2023.DetyratNeVideo.video6.util to javafx.fxml;
+    exports com.example.ushtrimeprovim2023.DetyratNeVideo.video7;
+    opens com.example.ushtrimeprovim2023.DetyratNeVideo.video7 to javafx.fxml;
+    exports com.example.ushtrimeprovim2023.DetyraNeLiber;
+    opens com.example.ushtrimeprovim2023.DetyraNeLiber to javafx.fxml;
+
+
 
 
 
