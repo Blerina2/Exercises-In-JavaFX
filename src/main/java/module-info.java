@@ -16,6 +16,10 @@ module com.example.ushtrimeprovim2023 {
     opens com.example.ushtrimeprovim2023.Java01 to javafx.fxml;
     exports com.example.ushtrimeprovim2023.Java02;
     opens com.example.ushtrimeprovim2023.Java02 to javafx.fxml;
+    exports com.example.ushtrimeprovim2023.Java03;
+    opens com.example.ushtrimeprovim2023.Java03 to javafx.fxml;
+    exports com.example.ushtrimeprovim2023.Java04;
+    opens com.example.ushtrimeprovim2023.Java04 to javafx.fxml;
     exports com.example.ushtrimeprovim2023.DetyraShtese;
     opens com.example.ushtrimeprovim2023.DetyraShtese to javafx.fxml;
 
