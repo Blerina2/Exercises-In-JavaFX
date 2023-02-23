@@ -20,6 +20,8 @@ module com.example.ushtrimeprovim2023 {
     opens com.example.ushtrimeprovim2023.Java03 to javafx.fxml;
     exports com.example.ushtrimeprovim2023.Java04;
     opens com.example.ushtrimeprovim2023.Java04 to javafx.fxml;
+    exports com.example.ushtrimeprovim2023.Java05;
+    opens com.example.ushtrimeprovim2023.Java05 to javafx.fxml;
     exports com.example.ushtrimeprovim2023.DetyraShtese;
     opens com.example.ushtrimeprovim2023.DetyraShtese to javafx.fxml;
 
@@ -38,6 +40,8 @@ module com.example.ushtrimeprovim2023 {
     opens com.example.ushtrimeprovim2023.DetyratNeVideo.video7 to javafx.fxml;
     exports com.example.ushtrimeprovim2023.DetyraNeLiber;
     opens com.example.ushtrimeprovim2023.DetyraNeLiber to javafx.fxml;
+    exports com.example.ushtrimeprovim2023.AFATE;
+    opens com.example.ushtrimeprovim2023.AFATE to javafx.fxml;
 
 
 
