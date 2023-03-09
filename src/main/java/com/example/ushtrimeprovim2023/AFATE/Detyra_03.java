@@ -19,6 +19,7 @@ public class Detyra_03 extends Application {
         MyCustom fan = new MyCustom();
         bp.setCenter(fan);
         Scene scene = new Scene(bp, 500, 500);
+        primaryStage.setTitle("Detyra_03");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
